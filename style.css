@@ -44,6 +44,7 @@ p{
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
+    
 }
 
 .row
@@ -52,7 +53,7 @@ p{
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
-}
+   }
 
 .col-2
 {
@@ -90,7 +91,7 @@ p{
 }
 .header
 {
-    background: white;
+    background:rgb(155, 81, 224);
 }
 
 .header .row{
